@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\chamanjangra\AndroidStudioProjects\Project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d2691beddc2c1ece996e49b7f2898e40b8130b4">
+        <dex dex="C:\Users\chamanjangra\AndroidStudioProjects\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_193d2fced66ee79aee4b5d485fca52b28dcc32a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chamanjangra\AndroidStudioProjects\Project\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\chamanjangra\AndroidStudioProjects\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_da5ea16d73b882794edd83286aae0dec32877bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chamanjangra\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\chamanjangra\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\debug\library-1.0.19_e15f6f2528b067c00e6bd419a08e78a1fe39b9a6.jar" />
+    </item>
+
+</items>

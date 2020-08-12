@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_activity_see_attendance">SeeAttendance</string>
+    <string name="check_for_inbound">Check for inbound</string>
+</resources>
